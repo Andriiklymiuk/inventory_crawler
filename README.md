@@ -25,3 +25,11 @@ make build
 make run
 ```
 
+## Thunderclient
+
+Encourage everyone to thunder client in vscode to check route, instead of swagger.
+
+## Swagger
+
+If you copied .evn from step 0, then you will have swagger 
+> Swagger is on [http://localhost:3055/swagger](http://localhost:3055/swagger)
