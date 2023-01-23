@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "285238a9-aaa0-411a-91bf-7a7625583036",
+    "name": "inventoryEnv",
+    "default": true,
+    "sortNum": 10000,
+    "created": "2023-01-23T12:33:45.483Z",
+    "modified": "2023-01-23T12:33:45.483Z",
+    "data": [],
+    "envFile": "../.env"
+  }
+]

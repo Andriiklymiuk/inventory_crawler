@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "99ed87da-8d7d-41cc-838f-86bb40c53353",
+    "colName": "inventory_crawler",
+    "created": "2023-01-23T12:25:07.996Z",
+    "sortNum": 10000,
+    "folders": [],
+    "settings": {
+      "headers": [],
+      "tests": [],
+      "options": {
+        "baseUrl": "{{BASE_URI}}"
+      },
+      "runOptions": {
+        "delay": 0,
+        "iterations": 1,
+        "dataFilePath": ""
+      }
+    }
+  }
+]

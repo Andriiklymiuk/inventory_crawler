@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "b9751a65-dfa6-48f3-96e6-50128c52346b",
+    "colId": "99ed87da-8d7d-41cc-838f-86bb40c53353",
+    "containerId": "",
+    "name": "Status",
+    "url": "/",
+    "method": "GET",
+    "sortNum": 10000,
+    "created": "2023-01-23T12:34:51.795Z",
+    "modified": "2023-01-23T12:37:50.041Z",
+    "headers": [],
+    "params": [],
+    "tests": [
+      {
+        "type": "res-code",
+        "custom": "",
+        "action": "equal",
+        "value": "200"
+      },
+      {
+        "type": "res-body",
+        "custom": "",
+        "action": "equal",
+        "value": "Success"
+      }
+    ]
+  }
+]
